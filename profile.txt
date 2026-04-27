@@ -1,4 +1,4 @@
-Nama: (isi nama)
-Kelas: (isi kelas)
-Hobi: (isi hobi)
-Skill: Git dasar
+Nama: (darren)
+Kelas: (le01)
+Hobi: (tidur)
+
